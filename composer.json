@@ -1,0 +1,16 @@
+{
+    "name": "bhoopal/iztlib",
+    "type": "library",
+    "description": "Library for global",
+    "keywords": ["izt library","izt package"],
+    "homepage": "https://inputzero.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bhoopal",
+            "email": "bhoopal.t@inputzero.com",
+            "homepage": "https://inputzero.com",
+            "role": "Tech Lead"
+        }
+    ]
+}
